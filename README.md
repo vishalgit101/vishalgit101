@@ -1,10 +1,7 @@
 # 👋 Hi, I'm Vishal Choudhary
 
-🎯 **Passionate Java Backend Developer** with experience in building scalable and secure systems.
+🎯 **Passionate Java Backend Developer** with experience in:
 
----
-
-## 💻 Tech Expertise
 - ✅ **Spring Boot** (Monolithic & Microservices)
 - ✅ **Authentication & Security**: Session Based Security, JWT, Spring Security, OAuth2, Google 2FA etc.
 - ✅ **Messaging & Integration**: Email Microservice Service, REST APIs, API Integration
