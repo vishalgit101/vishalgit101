@@ -12,17 +12,21 @@
 - ✅ **Tools & DevOps**: Docker, Git, Maven, Eclipse, Postman, Hosting
 - ✅ **Frontend**: Javascript, React, Html/CSS.
 
----
+--- 
 
-## 🚀 Projects I’ve Built
-- 📌 **Fullstack Blogging Platform**
-- 📌 **Fullstack NotesVault (Secure Notes)** (JWT + OAuth2 + Docker Render Deployment)
-- 📌 **Job Portal**
-- 📌 **Email Microservice Service**
-- 📌 **User Management System**
-- 📌 **Tenzies**
+## 🚀 Projects
 
----
+- [Fullstack Blogging Platform (Spring Boot, JS)](https://github.com/vishalgit101/Blogpost-WebApp)
+- [Fullstack NotesVault (Secure Notes) (Spring Boot, React) (JWT + OAuth2 + Docker Render Deployment)](https://github.com/vishalgit101/SpringSecureNotesBackend_With_Postgresql)
+- [Job Portal(Spring Boot)](https://github.com/vishalgit101/Job-Portal)
+- [Email Microservice Service (Spring Boot)](https://github.com/vishalgit101/Email-Service)
+- [User Management System(Servlets Jsp)](https://github.com/vishalgit101/Servlet_JSP_MVC_DAO_CRUD)
+- [AI COOK Agent (React)](https://github.com/vishalgit101/ReactProjects/tree/main/React5%20Claude%20Chef)
+- [Tenzies(React)](https://github.com/vishalgit101/ReactProjects/tree/main/React8%20Tenzies)
+- [Meme Generator(React)](https://github.com/vishalgit101/ReactProjects/tree/main/React6)
+
+## 🌐 Live Demos
+- [NotesVault](https://springbootnotesvault.netlify.app) 
 
 ## 🧰 My Workflow
 - 🐳 Deploy with **Docker**  
