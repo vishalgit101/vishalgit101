@@ -26,7 +26,7 @@
 - [Meme Generator(React)](https://github.com/vishalgit101/ReactProjects/tree/main/React6)
 
 ## 🌐 Live Demos
-- [NotesVault](https://springbootnotesvault.netlify.app) 
+- [NotesVault(SpringBoot and React)](https://springbootnotesvault.netlify.app) 
 
 ## 🧰 My Workflow
 - 🐳 Deploy with **Docker**  
