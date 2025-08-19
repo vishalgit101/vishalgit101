@@ -16,7 +16,7 @@
 
 ## 🚀 Projects I’ve Built
 - 📌 **Fullstack Blogging Platform**
-- 📌 **Fullstack NotesVault (Secure Notes)** (JWT + AWS EC2 Deployment)
+- 📌 **Fullstack NotesVault (Secure Notes)** (JWT + OAuth2 + Docker Render Deployment)
 - 📌 **Job Portal**
 - 📌 **Email Microservice Service**
 - 📌 **User Management System**
