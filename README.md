@@ -6,7 +6,7 @@
 
 ## 🧠 Tech Stack & Skills
 
-- ✅ **Backend:** Java 17, Spring Boot (Monolithic & Microservices), REST APIs
+- ✅ **Backend:** Java 21, Spring Boot (Monolithic & Microservices), REST APIs
 - ✅ **Security:** Spring Security, JWT, Session-Based Auth, OAuth2 (Google), 2FA, RBAC
 - ✅ **Databases & Caching:** MySQL, PostgreSQL, Redis
 - ✅ **Messaging:** RabbitMQ, Email & Notification Microservices
@@ -75,6 +75,11 @@ https://github.com/vishalgit101/SpringSecureNotesBackend_With_Postgresql
 
 ---
 
+### Blog Platform (Spring Boot + JS)  
+  🔹 https://github.com/vishalgit101/Blogpost-WebApp
+  
+---
+
 ### 💼 Job Portal (MVC + Thymeleaf)
 **Spring Boot · MVC**
 
@@ -84,8 +89,6 @@ https://github.com/vishalgit101/SpringSecureNotesBackend_With_Postgresql
 ---
 
 ### 🧪 Other Projects
-- Blog Platform (Spring Boot + JS)  
-  https://github.com/vishalgit101/Blogpost-WebApp
 - Email Microservice  
   https://github.com/vishalgit101/Email-Service
 - User Management (Servlets, JSP, MVC)  
