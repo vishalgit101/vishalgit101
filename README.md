@@ -93,7 +93,7 @@ https://github.com/vishalgit101/SpringSecureNotesBackend_With_Postgresql
   https://github.com/vishalgit101/Email-Service
 - User Management (Servlets, JSP, MVC)  
   https://github.com/vishalgit101/Servlet_JSP_MVC_DAO_CRUD
-- User Management (Spring Boot, thymeleaf, MVC) 
+- Todo App (Spring Boot, thymeleaf, MVC)
   https://github.com/vishalgit101/SpringBoot_TodoLoginSignup_Database
 - AI Cook Agent (React)  
   https://github.com/vishalgit101/ReactProjects/tree/main/React5%20Claude%20Chef
